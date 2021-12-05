@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 	"github.com/spf13/viper"
-	"go-frame/http"
-	"go-frame/mysql"
+	"go-framework/http"
+	"go-framework/mysql"
 	"log"
 )
 

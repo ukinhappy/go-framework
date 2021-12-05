@@ -2,9 +2,9 @@ package mysql
 
 import (
 	"github.com/spf13/viper"
+	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
-import "gorm.io/driver/mysql"
 
 var (
 	DefaultDB *gorm.DB
