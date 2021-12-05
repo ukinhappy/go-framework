@@ -1,0 +1,6 @@
+[http]
+server = "0.0.0.0:51001"
+
+[mysql]
+[mysql.default]
+dsn = "root:MYSQL123456@tcp(127.0.0.1:3306)/ukinhappy?charset=utf8mb4&loc=Asia%2FShanghai&parseTime=true"
